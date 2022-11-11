@@ -1,6 +1,6 @@
 /*
 
-Vedant Supnekar (R11715927) | 11/11/2022
+Vedant Supnekar | 11/11/2022
 
 This is a recursive descent syntax parser in C Programming Language that can validate the syntax of a source code file provided by the user
 
