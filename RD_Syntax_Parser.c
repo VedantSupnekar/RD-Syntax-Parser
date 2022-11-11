@@ -1,6 +1,6 @@
 /*
 
-Vedant Supnekar (R11715927) | Assignment #4 | 11/11/2022
+Vedant Supnekar (R11715927) | 11/11/2022
 
 This is a recursive descent syntax parser in C Programming Language that can validate the syntax of a source code file provided by the user
 
@@ -93,7 +93,7 @@ static void getNonBlank();
 /**/
 /* main driver */
 int main(int argc, char *argv[]) {
-  printf("DanC Analyzer :: R11715927\n\n");
+  printf("DanC Analyzer :: Vedant Supnekar\n\n");
   //defining string array for token names. 
   char *a[26];
   a[0] = "LETTER";
